@@ -1,10 +1,8 @@
 >  1. Anton Lisitsyn
->  2. mobile phone: +375291776195
->  email: antonplovec@gmail.com
->  3. Контакты для связи.
->  4. I want to get new knowledge.Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении и способности быстро учиться и узнавать новое).
->  5. Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
->  6. Примеры кода *
->  7. no experience in IT. Опыт работы. Junior Dev может указать пройденные курсы и тренинги, перечислить учебные проекты, или проекты, выполненные на фрилансе с указанием использованных навыков и ссылками на исходный код.**
->  8. education: higher pedagogical.Образование (включая курсы, семинары, лекции, онлайн-обучение)
->  9. level of knowledge of English A2. Английский язык (уровень английского языка, если была языковая практика, расскажите о ней).
+>  2. Mobile phone: +375291776195; Email: antonplovec@gmail.com;
+>  3. I want to get new knowledge. My goal is to do everything that depends on me when teaching.
+>  4. My skils: HTML/CSS, JS at the entry level.
+>  5. Примеры кода *
+>  6. No experience in IT. Passed free html academy courses.
+>  7. Education: higher pedagogical. I have no education in the field of IT. This is my first experience.
+>  8. level of knowledge of English A2.
